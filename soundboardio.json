@@ -1,0 +1,208 @@
+{
+  "name": "The Uchiumi Nia Sounboard",
+  "shortName": "Nia Sounboard",
+  "description": "Do I really need to write a description? Clearly, it is a soundboard with sounds made by.... you guessed it: Uchiumi Nia",
+  "color": "#a6d4dd",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "diaphanous Duck",
+    "url": "-"
+  },
+  "lang": "en",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "purpose": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "5_booms",
+      "filename": "5_booms.mp3"
+    },
+    {
+      "name": "Anime_bahoingas",
+      "filename": "anime_bahoingas.mp3"
+    },
+    {
+      "name": "A_rathalos",
+      "filename": "a_rathalos.mp3"
+    },
+    {
+      "name": "A_rathalos_raw",
+      "filename": "a_rathalos_raw.mp3"
+    },
+    {
+      "name": "Ashen_one",
+      "filename": "ashen_one.mp3"
+    },
+    {
+      "name": "Baam_wow",
+      "filename": "baam_wow.mp3"
+    },
+    {
+      "name": "Baka",
+      "filename": "baka.mp3"
+    },
+    {
+      "name": "Ban_frofa",
+      "filename": "ban_frofa.mp3"
+    },
+    {
+      "name": "Big_booty_bitches_bg",
+      "filename": "big_booty_bitches_bg.mp3"
+    },
+    {
+      "name": "Crack_open_cold_one",
+      "filename": "crack_open_cold_one.mp3"
+    },
+    {
+      "name": "Cringe_as_hell",
+      "filename": "cringe_as_hell.mp3"
+    },
+    {
+      "name": "Fill_your_dark_soul_with_light",
+      "filename": "fill_your_dark_soul_with_light.mp3"
+    },
+    {
+      "name": "Free_real_estate_whisper",
+      "filename": "free_real_estate_whisper.mp3"
+    },
+    {
+      "name": "Hag_cackle",
+      "filename": "hag_cackle.mp3"
+    },
+    {
+      "name": "He_is_gay",
+      "filename": "he_is_gay.mp3"
+    },
+    {
+      "name": "Honkhonk_awooga",
+      "filename": "honkhonk_awooga.mp3"
+    },
+    {
+      "name": "Hwhat",
+      "filename": "hwhat.mp3"
+    },
+    {
+      "name": "Im_a_gnome",
+      "filename": "im_a_gnome.mp3"
+    },
+    {
+      "name": "Im_at_burger_king_song",
+      "filename": "im_at_burger_king_song.mp3"
+    },
+    {
+      "name": "Knee_slap_laugh",
+      "filename": "knee_slap_laugh.mp3"
+    },
+    {
+      "name": "Knee_slap_laugh_2",
+      "filename": "knee_slap_laugh_2.mp3"
+    },
+    {
+      "name": "Lemon_wawawawawa",
+      "filename": "lemon_wawawawawa.mp3"
+    },
+    {
+      "name": "Level_up_completed",
+      "filename": "level_up_completed.mp3"
+    },
+    {
+      "name": "Listen_here_you_little_shit",
+      "filename": "listen_here_you_little_shit.mp3"
+    },
+    {
+      "name": "NiaDang",
+      "filename": "niaDang.mp3"
+    },
+    {
+      "name": "NiaEtc",
+      "filename": "niaEtc.mp3"
+    },
+    {
+      "name": "NiaFrick",
+      "filename": "niaFrick.mp3"
+    },
+    {
+      "name": "NiaHeck",
+      "filename": "niaHeck.mp3"
+    },
+    {
+      "name": "NiaShoot",
+      "filename": "niaShoot.mp3"
+    },
+    {
+      "name": "Noice",
+      "filename": "noice.mp3"
+    },
+    {
+      "name": "Nose_pinched_john_madden",
+      "filename": "nose_pinched_john_madden.mp3"
+    },
+    {
+      "name": "Not_a_threat_its_a_promise",
+      "filename": "not_a_threat_its_a_promise.mp3"
+    },
+    {
+      "name": "Slayer_task_completed",
+      "filename": "slayer_task_completed.mp3"
+    },
+    {
+      "name": "Smell_ya_later",
+      "filename": "smell_ya_later.mp3"
+    },
+    {
+      "name": "So_no_yuri",
+      "filename": "so_no_yuri.mp3"
+    },
+    {
+      "name": "Stick_out_tongue",
+      "filename": "stick_out_tongue.mp3"
+    },
+    {
+      "name": "That_is_disgusting",
+      "filename": "that_is_disgusting.mp3"
+    },
+    {
+      "name": "That_is_disgusting_short",
+      "filename": "that_is_disgusting_short.mp3"
+    },
+    {
+      "name": "That_so_fucking_cool_bro",
+      "filename": "that_so_fucking_cool_bro.mp3"
+    },
+    {
+      "name": "Tidus_laugh_bg",
+      "filename": "tidus_laugh_bg.mp3"
+    },
+    {
+      "name": "Ugh_I_dont_like_that",
+      "filename": "ugh_I_dont_like_that.mp3"
+    },
+    {
+      "name": "Urgh_you_are_valid",
+      "filename": "urgh_you_are_valid.mp3"
+    },
+    {
+      "name": "Waa_golden_legendary",
+      "filename": "waa_golden_legendary.mp3"
+    },
+    {
+      "name": "Wawawawawa",
+      "filename": "wawawawawa.mp3"
+    },
+    {
+      "name": "Yay",
+      "filename": "yay.mp3"
+    }
+  ]
+}
